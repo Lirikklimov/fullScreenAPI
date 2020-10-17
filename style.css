@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+.header {
+    text-align: center;
+}
+
+button {
+    height:30px;
+    margin-right: 10px;
+}
+
+#description {
+    font-style: italic;
+}
